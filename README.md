@@ -1,6 +1,10 @@
 # ft_printf: Because ft_putnbr() and ft_putstr() aren’t enough
 
 
+
+
+
+
 The goal of this project is to recreate the functionality of the C standard library function `printf()`. This project introduces you to variadic functions in C, helping you better understand how to handle variable arguments and format specifiers.
 
 ### Project Overview

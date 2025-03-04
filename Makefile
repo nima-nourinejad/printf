@@ -14,6 +14,10 @@ CFLAGS = -Wall -Wextra -Werror
 
 
 
+
+
+
+
 SRC = 	ft_printf.c \
 			ft_printf_s.c \
 			ft_printf_c.c \
